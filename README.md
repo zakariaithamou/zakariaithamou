@@ -83,8 +83,6 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaithamou&show_icons=true&locale=en&layout=compact" alt="zakariaithamou" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaithamou&show_icons=true&locale=en&layout=compact" alt="zakariaithamou" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaithamou&show_icons=true&locale=en" alt="zakariaithamou" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=zakariaithamou" alt="zakariaithamou" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaithamou&" alt="zakariaithamou" /></p>
