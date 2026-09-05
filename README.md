@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/5Akl9i8YiMbl5RFvGO/giphy.gif" width="150" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Zakaria AIT HAMOU</h1>
 <h3 align="center">💻 Software Engineer | Programmer</h3>
 
@@ -20,21 +16,6 @@
 - 💡 I enjoy turning ideas into functional web apps and systems
 - 🌱 Currently sharpening my skills in web development and software engineering
 - 📫 How to reach me: **aithamouzakaria0@gmail.com**
-
----
-
-### 🛠️ Projects
-
-**🌐 BDE ENSAS Website**
-A WordPress website built for the BDE (Bureau des Élèves) of ENSAS, providing students with information, news, and event updates.
-
-**🛍️ Artisanal E-Commerce Web App**
-A web application for selling artisanal/handcrafted products online, including product listings, cart, and order management.
-
-**🔔 Notification System**
-A system designed to manage and deliver real-time notifications, keeping users informed and engaged.
-
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/zakariaithamou)
 
 ---
 
