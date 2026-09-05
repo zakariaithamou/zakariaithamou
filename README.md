@@ -4,11 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineer;Programmer;Building+Web+Applications" alt="Typing SVG" />
 </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zakariaithamou&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaithamou" /> </p>
-
 ---
-
 ### 🚀 About Me
 - 🎓 Software Engineer passionate about building practical, real-world applications
 - 💡 I enjoy turning ideas into functional web apps and systems
@@ -85,8 +81,8 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaithamou&show_icons=true&locale=en&layout=compact" alt="zakariaithamou" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaithamou&show_icons=true&locale=en&layout=compact" alt="zakariaithamou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaithamou&show_icons=true&locale=en" alt="zakariaithamou" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaithamou&" alt="zakariaithamou" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=zakariaithamou" alt="zakariaithamou" /></p>
