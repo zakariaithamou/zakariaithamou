@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/stickers/metadigital-dinosaur-meta-digital-5Akl9i8YiMbl5RFvGO" width="150" />
+  <img src="https://media.giphy.com/media/5Akl9i8YiMbl5RFvGO/giphy.gif" width="150" />
 </div>
 <h1 align="center">Hi 👋, I'm Zakaria AIT HAMOU</h1>
 <h3 align="center">💻 Software Engineer | Programmer</h3>
