@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="PASTE_DIRECT_STICKER_URL_HERE" width="150" />
+</div>
 <h1 align="center">Hi 👋, I'm Zakaria AIT HAMOU</h1>
 <h3 align="center">💻 Software Engineer | Programmer</h3>
 
