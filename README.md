@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineer;Programmer;Building+Web+Applications" alt="Typing SVG" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariaithamou&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaithamou" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakariaithamou" alt="zakariaithamou" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zakariaithamou&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaithamou" /> </p>
 
 ---
 
