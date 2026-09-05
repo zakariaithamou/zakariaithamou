@@ -4,6 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineer;Programmer;Building+Web+Applications" alt="Typing SVG" />
 </p>
+
+
 ---
 ### 🚀 About Me
 - 🎓 Software Engineer passionate about building practical, real-world applications
